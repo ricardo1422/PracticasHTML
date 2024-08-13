@@ -2,7 +2,7 @@
 Ejercicios básicos de HTML
 
 ## Lenguajes 
-* `HTML
+* HTML
 ![Image](Assets/HTML5_logo_and_wordmark.svg.png)
-* `CSS
+* CSS
 ![Image](Assets/CssLogo.png)
