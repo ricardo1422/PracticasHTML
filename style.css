@@ -1,0 +1,27 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+header{
+   
+    background-color: aqua;
+    padding: 20px;
+}
+span{
+    font-weight: 800;
+}
+.contenido5{
+    display: flex;
+    align-items: center;
+    margin: 5% 10%;
+    justify-content: space-between;
+}
+.cabecera_links{
+    display: flex;
+    gap: 32px;
+}
+.links{
+    text-decoration: none;
+    color: darkblue;
+}
