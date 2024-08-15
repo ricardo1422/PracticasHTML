@@ -90,6 +90,33 @@ img{
 .imagen_link{
     background-color: #d42373;
 }
+.contenido_enlaces_general{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1% 10% 1% 10%;
+}
+.contenido_enlaces_links
+{
+    display: flex;
+    flex-direction: column;
+    background-color: #d42373;
+   
+}
+.link_paginas{
+
+    margin: 10px;
+    color:black;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 0.5rem;
+    text-align: center;
+    border: 0.125rem solid yellowgreen;
+    display: flex;
+    justify-content: center;
+    gap: 0.625rem;
+
+}
 footer{
     background-color: #d42373;
     display: flex;
